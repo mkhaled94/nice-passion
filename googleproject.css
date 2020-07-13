@@ -1,0 +1,302 @@
+
+.headm {
+    min-width: 181px;
+    
+    z-index: 987;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: auto;
+    display: flex;
+    padding-left: 30px;
+    padding-right: 30px;
+    position: relative;
+    text-align: right;
+    align-items: center;
+    justify-content: flex-end;
+    margin-left: 0!important;
+    margin-right: 25px!important;
+    white-space: nowrap;
+    font-size: 13px;
+    background: #fff;
+    color: #222;
+    font-family: arial,sans-serif;
+    
+} 
+.headm1 {
+    padding-right: 15px;
+    -webkit-flex: 0 1 auto;
+    flex: 0 1 auto;
+    -webkit-flex: 0 1 main-size;
+    flex: 0 1 main-size;
+    display: -webkit-flex;
+    display: flex;
+    line-height: normal;
+    padding-right: 15px;
+    margin-left: 0!important;
+    margin-right: 0!important;
+    white-space: nowrap;
+    -webkit-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-flex: 0 0 main-size;
+    flex: 0 0 main-size;
+    font-size: 13px;
+}
+.headm2 {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 12px;
+}
+.ggmail {
+    color: rgba(0,0,0,0.87);
+    text-decoration: none;
+
+}
+.headm3 {
+margin-right: 9px;
+padding-left: 15px;
+    vertical-align: middle;
+    flex: 0 0 auto;
+}
+.gimages {
+    color: rgba(0,0,0,0.87);
+    text-decoration: none;
+}
+.headmimage {
+    display: inline-block;
+    outline: none;
+    vertical-align: middle;
+    border-radius: 2px;
+    box-sizing: border-box;
+    height: 30px;
+    width: 30px;
+    text-decoration: none;
+}
+#headmimage {
+    background-size: 32px 32px;
+    border: 0;
+    border-radius: 50%;
+    display: block;
+    margin: -1px;
+    position: relative;
+    height: 32px;
+    width: 32px;
+    z-index: 0;
+}
+
+.maindiv {
+    min-width: 1139px;
+    margin: 0 auto;
+}
+div {
+display: block;
+}
+#srb {
+    width: 600px;
+height: 40px;
+position: relative;
+top: 50%;
+left: 50%;
+border: .1px rgb(37, 32, 32) solid;
+border-radius: 100px;
+background-color: transparent;
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+text-emphasis-color: black;
+
+
+
+}
+#searchform .big .gsh {
+width: 584px;
+}
+.gsh {
+    position: relative;
+    margin: 0 auto;
+    padding-top: 6px;
+}
+    #gsh1 {
+        background: #fff;
+    display: flex;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    z-index: 3;
+    height: 44px;
+    margin: 0 auto;
+    width: 482px;
+}
+.gsh2 {
+    flex: 1;
+    display: flex;
+    padding: 5px 8px 0 16px;
+    padding-left: 14px;
+}
+.gsh3 {
+    display: flex;
+    align-items: center;
+    padding-right: 13px;
+    margin-top: 1px;
+    width: 455px;
+    
+}
+.gsh4 {
+    margin: auto;
+}
+.gsi1 {
+    margin-top: 3px;
+    color: #9AA0A6;
+    height: 20px;
+    width: 20px;
+} 
+.gsi2 {
+    display: inline-block;
+    fill: currentColor;
+    height: 24px;
+    line-height: 24px;
+    position: relative;
+    width: 24px;
+}
+.gsh5 {
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+}
+.gsh6 {
+    color: transparent;
+    flex: 100%;
+    white-space: pre;
+    height: 34px;
+}
+.gsh7 {
+    display: flex;
+    flex: 0 0 auto;
+    margin-top: 1px;
+    align-items: normal;
+    flex-direction: row;
+}
+.inputgsh {
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    padding: 0;
+    color: rgba(0,0,0,.87);
+    word-wrap: break-word;
+    outline: none;
+    display: flex;
+    flex: 100%;
+    -webkit-tap-highlight-color: transparent;
+    margin-top: -28px;
+    height: 34px;
+    font-size: 16px;
+    width: max-content;
+}
+.linput {
+    font: 16px arial,sans-serif;
+    line-height: 34px;
+    height: 34px !important;
+}
+
+.micon-gsh {
+    display: flex;
+    flex: 0 0 auto;
+    margin-top: -5px;
+    align-items: stretch;
+    flex-direction: row;
+}
+.micon-gsh1 {
+    flex: 1 0 auto;
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    border: 0;
+    background: transparent;
+    outline: none;
+    padding: 0 8px;
+    width: 24px;
+    line-height: 44px;
+}
+
+
+.micon {
+    height: 24px;
+    width: 24px;
+    vertical-align: middle;
+}
+.btnE {
+    display: block;
+    text-align: -webkit-center;
+    position: absolute;
+    -webkit-box-align: center;
+    width: 100%;
+}
+.bicon {
+    width: 571px;
+    height: 70px;
+    padding-top: 18px;
+    top: 53px;
+    z-index: 0;
+}
+.gbicon1 {
+    background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+   
+   
+    text-rendering: auto;
+}
+.gbicon2 {
+    background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+    
+  
+ #google-logo {
+    width: auto;
+    height: 120px;
+    padding-top: 109px;
+    text-align: center;
+    
+    
+
+}
+
+    
+    #marg {
+        
+        margin: 25px 30px 33px 30px;
+        height: 210px;
+        display: block;
+        text-align: center;
+
+    }
+    .gfooter {
+        text-align: center;
+        font-size: small;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
